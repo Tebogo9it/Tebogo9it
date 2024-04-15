@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend development and Tech support systems 
 - 💞️ I’m looking to collaborate on frontend development and backend development
 - 📫 How to reach me,you can find me on socials as kemet sibling
-- 😄 Pronouns: ...He
+- 😄 Pronouns: ...Him ...Himorty
 - ⚡ Fun fact: ...I am a millioner in mind
 
 <!---
